@@ -1,0 +1,697 @@
+@media (max-width:1440px) {
+.container {
+    width: 80%;
+    margin: 0 auto;
+}    
+}
+@media (max-width:1200px) {
+.hero img {
+    width: 550px;
+}
+.info img {
+    width: 500px;
+}
+.content {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.card-text {
+    margin: 20px 0;
+}
+.table-h6 {
+    margin-bottom: 75px;
+}
+.table {
+flex-direction: column;
+}
+.table-card {
+    margin: 20px 0;
+}
+.table-h6 {
+    margin-bottom: 35px;
+}
+.clients {
+    width: 1030px;
+}
+.footer2 {
+    margin-left: 108px;
+}
+.footer3 {
+    margin-left: 67px;
+}
+}
+@media (max-width:1024px) {
+    .header-nav a {
+        margin: 0 17px;
+    }
+    .header-btn2 {
+        margin-right: 14px;
+    }  
+.hero {
+    flex-direction: column;
+}    
+.hero-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+.hero-text h1 {
+    width: 370px;
+}
+.hero-btn1 {
+    margin-right: -1px;
+}
+.hero-btn2 {
+    margin: 25px 0;
+}
+.hero img {
+    width: 90%;
+}
+.main {
+    flex-direction: column;
+}
+#main {
+    padding: 80px 0;
+}
+.main-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    padding-bottom: 30px;
+}
+.main img {
+    width: 90%;
+}
+.info {
+    flex-direction: column;
+}
+.info img {
+    width: 90%;
+}
+.info-text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction:column;
+    text-align: center;
+    padding-top: 30px ;
+}
+.about h6 {
+    width: 434px;
+}
+.table {
+    flex-direction: column;
+}
+.clients {
+    flex-direction: column;
+}
+.clients {
+    width: 858px;
+}
+.say-card {
+    margin: 20px 0;
+}
+
+.clients-p {
+    margin: 8px 0 30px 0;
+}
+.part {
+    width: 776px;
+    height: 305px;
+}
+.part-text h1 {
+    width: 350px;
+    font-size: 27px;
+    margin: 40px 0 53px 51px;
+}
+.part-text button {
+    font-size: 16px;
+    padding: 8px 20px 7px 20px;
+}
+.part img {
+    width: 370px;
+}
+.footer {
+    flex-direction: column;
+}
+.footer2 {
+    margin-left: 1px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer2 h5 {
+    width: -40px;
+    margin:8px 15px;
+}
+.footer h4 {
+     margin-bottom: 0; 
+}
+.footer3 h3 {
+    width: 450px;
+}
+.footer3 {
+    margin-left: 0px;
+}
+.footer-h6 {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+}
+@media (max-width:992px) {
+    .figure, .blue, .heart, .watch {
+        width: 45px;
+        height: 45px;
+    }
+    .product-card h1 {
+        font-size: 20px;
+    }
+    .product-card p {
+        width: 201px;
+        font-size: 15px;
+    }
+.product {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+}
+.process {
+    flex-direction: column;
+}
+.process-people {
+    margin: 10px 0;
+}
+}
+@media (max-width:768px) {
+.header-nav a {
+    display: none;
+}
+#product {
+    padding: 48px 0;
+}
+.product {
+display: flex;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+}
+.product-card {
+    margin: 15px 0;
+}
+.clients {
+    width: 621px;
+}
+.part {
+    width: 584px;
+    height: 254px;
+}
+.part-text h1 {
+    width: 334px;
+    font-size: 22px;
+    margin: 40px 0 29px 51px;
+}
+.part img {
+    width: 224px;
+}
+}
+@media (max-width:576px) {
+   .clients {
+        width: 450px;
+    }
+    .header-btn1 {
+        font-size: 14px;
+        width: 89px;
+        height: 30px;
+    }
+    .header-btn2 {
+        width: 89px;
+        height: 31px;
+        font-size: 14px;
+    }
+    .hero-text h1 {
+        width: 347px;
+        font-size: 36px;
+    }
+    .hero-text p {
+        width: 388px;
+        font-size: 17px;
+    }
+    .hero-btn1 {
+        font-size: 15px;
+        width: 160px;
+        height: 43px;
+    }
+    .hero-btn2 {
+        font-size: 15px;
+    }
+    .product-h1 {
+        font-size: 28px;
+    }
+#header {
+    padding: 3px 0;
+}
+.product-btn button {
+    font-size: 14px;
+    width: 151px;
+    height: 49px;
+}
+#main {
+    padding: 34px 0;
+}
+#info {
+    padding: 13px 0;
+}
+.blue, .heart, .watch {
+    width: 35px;
+    height: 35px;
+}
+.process-h4 {
+    font-size: 14px;
+}
+.process-btn button {
+    font-size: 14px;
+    width: 183px;
+    height: 45px;
+}
+.card-text {
+    width: 70%;
+}
+.card-text img {
+    width: 100%;
+}
+.content-h1 {
+    font-size: 28px;
+}
+.content-h3 {
+    font-size: 14px;
+    width: 540px;
+}
+.card-text h1, .card-h1 h1 {
+    font-size: 20px;
+}
+.clients-h1 {
+    font-size: 28px;
+}
+.clients-p {
+    font-size: 14px;
+}
+.part {
+    width: 442px;
+    height: 204px;
+}
+.part-text h1 {
+    width: 206px;
+    font-size: 16px;
+    margin: 40px 0 20px 51px;
+}
+.part-text button {
+    font-size: 14px;
+    padding: 7px 18px ;
+} 
+.footer2 h4 {
+    font-size: 18px;
+}
+.footer2 h5 {
+    font-size: 14px;
+}
+.footer3 h3 {
+    width: 472px;
+    font-size: 18px;
+}
+}
+@media (max-width:451px) {
+.header-logo img {
+    width: 80px;
+}
+.header-h1 {
+    font-size: 25px;
+    margin-left: 9px;
+}
+.header-btn1 {
+    font-size: 13px;
+    width: 75px;
+    height: 22px;
+}
+.header-btn2 {
+    font-size: 13px;
+    width: 75px;
+    height: 22px;
+    margin: 0 7px;
+}
+#hero {
+    padding: 14px 0;
+}
+.hero-text h1 {
+    width: 266px;
+    font-size: 30px;
+    line-height: 40px;
+}
+.hero-text p {
+    width: 443px;
+    font-size: 15px;
+    margin: 2px 0 16px 0;
+}
+.hero-btn1 {
+    font-size: 15px;
+    width: 142px;
+    height: 36px;
+}
+.hero-btn2 {
+    margin: 12px 0;
+}
+.product-h1 {
+    font-size: 24px;
+}
+.product-btn button {
+    font-size: 14px;
+    width: 124px;
+    height: 33px;
+}
+.main-text p {
+    width: 378px;
+    font-size: 15px;
+}
+.info-text p {
+    width: 351px;
+    font-size: 15px;
+}
+.about h6 {
+    width: 218px;
+    font-size: 15px;
+}
+.process-h1 {
+    font-size: 28px;
+}
+.process-h4 {
+    font-size: 14px;
+    width: 413px;
+    margin: 10px 0 29px 0;
+}
+.human img {
+    width: 70px;
+}
+.human p {
+    font-size: 14px;
+    width: 253px;
+    height: 41px;
+    margin-left: 8px;
+}
+.human1 img {
+    width: 70px;
+}
+.human1 p {
+    font-size: 14px;
+    width: 253px;
+    height: 41px;
+    margin-left: 8px;
+}
+.process-btn button {
+    font-size: 14px;
+    width: 158px;
+    height: 40px;
+}
+.process-btn {
+    margin-top: 8px;
+}
+#content {
+    padding: 9px 0;
+}
+.content-h3 {
+    font-size: 14px;
+    width: 369px;
+}
+.card-text {
+    height: 280px;
+}
+.card-text h6  {
+    font-size: 14px;
+}
+.card-text h6 span {
+    font-size: 14px;
+}
+.card-text h1, .card-h1 h1 {
+    font-size: 16px;
+    line-height: 30px;
+}
+.table-card {
+    width: 256.649px;
+    height: 376px;
+}
+.table-card1 {
+    width: 256.649px;
+    height: 376px;
+}
+#table {
+    padding: 12px 0;
+}
+#clients {
+    padding: 15px 0;
+}
+.clients {
+    width: 357px;
+}
+.part {
+    width: 343px;
+    height: 181px;
+    margin-left: 6px;
+}
+#part {
+    margin: 5px 0;
+}
+.part-text h1 {
+    width: 181px;
+    font-size: 14px;
+}
+.header-btn1 {
+    margin: 0 8px;
+}
+.process-h4 {
+    font-size: 13px;
+    width: 307px;
+    margin: 10px 0 15px 0;
+}
+.part img {
+    width: 127px;
+}
+.footer-icon {
+    margin-top: 11px;
+}
+.footer2 h4 {
+    font-size: 14px;
+}
+.footer2 h5 {
+    font-size: 12px;
+    width: 317px;
+        margin: 1px 8px;
+}
+.footer2 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    flex-direction: column;
+}
+.footer3 h3 {
+    width: 332px;
+    font-size: 14px;
+}
+.footer3 h5 {
+    font-size: 14px;
+    width: 245px;
+    height: 23px;
+    margin: 5px 0 7px 0;
+}
+.footer3 button {
+    font-size: 14px;
+    width: 104px;
+    height: 30px;
+}
+.footer-h6 {
+    font-size: 14px;
+}
+}
+@media (max-width:400px) {
+.header-nav {
+    display: none;
+}
+.hero-text p {
+    width: 293px;
+}
+.product-h1 {
+    font-size: 20px;
+}
+.main-text p {
+    width: 284px;
+    font-size: 14px;
+}
+.info-text p {
+    width: 299px;
+    font-size: 14px;
+}
+.about-figur, .red, .blue {
+    width: 25px;
+    height: 25px;
+    margin-right: 20px;
+}
+
+.about h6 {
+    width: 218px;
+    font-size: 15px;
+}
+.content-h3 {
+    width: 303px;
+    margin: 8px 0 10px 0;
+}
+.card-text {
+    height: 264px;
+}
+.part {
+    margin-left: -10px;
+}
+
+
+
+}
+@media (max-width:376px) {
+    .clients {
+        width: 303px;
+    }
+    .footer-h6 {
+        font-size: 12px;
+    }
+}
+@media (max-width:320px) {
+    .process-h4 {
+        width: 230px;
+    }
+    .human img {
+        width: 50px;
+    }
+    .human p {
+        font-size: 12px;
+        width: 201px;
+        height: 26px;
+        margin-left: -11px;
+    }
+    .human1 img {
+        width: 50px;
+    }
+    .human1 p {
+        font-size: 12px;
+        width: 201px;
+        height: 26px;
+        margin-left: -11px;
+    }
+    .content-h3 {
+        width: 227px;
+    }
+    .card-text h1, .card-h1 h1 {
+        font-size: 14px;
+        line-height: 20px;
+    }
+    .card-text h6 {
+        font-size: 11px;
+    }
+    .card-text h6 span {
+        font-size: 11px;
+    }
+    .card-text {
+        height: 210px;
+    }
+    .card-text h6 {
+        font-size: 16px;
+        margin: 2px 0 4px 19px;
+    }
+    .table-card {
+        width: 199.649px;
+        height: 325px;
+    }
+    .table-card1 {
+        width: 199.649px;
+        height: 325px;
+    }
+    .table-card h1 {
+        font-size: 20px;
+    }
+    .table-card1 h1 {
+        font-size: 20px;
+    }
+    .table-card h2 {
+        font-size: 14px;
+    }
+    .table-card1 h2 {
+        font-size: 14px;
+    }
+    .card-number span {
+        font-size: 56px;
+    }
+    .card-month span {
+         font-size: 18px; 
+    }
+    .card-month h3 {
+        font-size: 14px;
+    }
+    .table-card p {
+        font-size: 14px;
+        margin: 8px 0;
+    }
+    .card-number1 span {
+        font-size: 56px;
+    }
+    .card-month1 span {
+         font-size: 18px; 
+    }
+    .card-month1 h3 {
+        font-size: 14px;
+    }
+    .table-card1 p {
+        font-size: 14px;
+        margin: 8px 0;
+    }
+    .say-card {
+        width: 254px;
+        height: 188px;
+    }
+    .say-icon {
+        padding: 10px 0 16px 28px;
+    }
+    .say-card p {
+        font-size: 14px;
+        line-height: 18px;
+    }
+    .clients {
+        width: 250px;
+    }
+    .part {
+        width: 269px;
+        height: 147px;
+    }
+    .part-text h1 {
+        width: 154px;
+        font-size: 12px;
+    }
+    .part-text button {
+        font-size: 12px;
+        padding: 5px 14px;
+    }
+    .part img {
+        width: 76px;
+    }
+    .footer2 h5 {
+        width: 162px;
+    }
+    .footer3 h3 {
+        width: 190px;
+        font-size: 12px;
+    }
+    .footer-h6 {
+        font-size: 12px;
+        width: 523px;
+    }
+}

@@ -222,6 +222,14 @@ flex-direction: column;
 }
 }
 @media (max-width:576px) {
+    .figure, .blue, .heart, .watch {
+        width: 38px;
+        height: 38px;
+    }
+    .content-h3 {
+        font-size: 14px;
+        width: 493px;
+    }
    .clients {
         width: 450px;
     }
@@ -268,10 +276,6 @@ flex-direction: column;
 #info {
     padding: 13px 0;
 }
-.blue, .heart, .watch {
-    width: 35px;
-    height: 35px;
-}
 .process-h4 {
     font-size: 14px;
 }
@@ -289,12 +293,11 @@ flex-direction: column;
 .content-h1 {
     font-size: 28px;
 }
-.content-h3 {
-    font-size: 14px;
-    width: 540px;
-}
 .card-text h1, .card-h1 h1 {
     font-size: 20px;
+}
+.part {
+margin-left: 8px;
 }
 .clients-h1 {
     font-size: 28px;
@@ -327,6 +330,10 @@ flex-direction: column;
 }
 }
 @media (max-width:451px) {
+    .figure, .blue, .heart, .watch {
+        width: 36px;
+        height: 36px;
+    }
 .header-logo img {
     width: 80px;
 }
@@ -530,14 +537,14 @@ flex-direction: column;
     width: 284px;
     font-size: 14px;
 }
+.figure, .blue, .heart, .watch {
+    width: 34px;
+    height: 34px;
+    margin-right: 20px;
+}
 .info-text p {
     width: 299px;
     font-size: 14px;
-}
-.about-figur, .red, .blue {
-    width: 25px;
-    height: 25px;
-    margin-right: 20px;
 }
 
 .about h6 {
@@ -554,7 +561,12 @@ flex-direction: column;
 .part {
     margin-left: -10px;
 }
-
+.say-card {
+    margin: 9px 0;
+}
+.clients {
+    width: 327px;
+}
 
 
 }
@@ -564,6 +576,22 @@ flex-direction: column;
     }
     .footer-h6 {
         font-size: 12px;
+    }
+    .figure, .blue, .heart, .watch {
+        width: 25px;
+        height: 25px;
+    }
+    .part {
+        margin-left: -23px;
+    }
+    .card-text h6 {
+        font-size: 12px;
+    }
+    .card-text h6 span {
+        font-size: 12px;
+    }
+    .card-text h1 {
+    margin-left: 16px;
     }
 }
 @media (max-width:320px) {
@@ -596,6 +624,7 @@ flex-direction: column;
         line-height: 20px;
     }
     .card-text h6 {
+        margin: -2px 0 6px 24px;
         font-size: 11px;
     }
     .card-text h6 span {
@@ -603,10 +632,6 @@ flex-direction: column;
     }
     .card-text {
         height: 210px;
-    }
-    .card-text h6 {
-        font-size: 16px;
-        margin: 2px 0 4px 19px;
     }
     .table-card {
         width: 199.649px;
@@ -694,4 +719,11 @@ flex-direction: column;
         font-size: 12px;
         width: 523px;
     }
+    .clients-p {
+        font-size: 11px;
+    }
+
+
+
+
 }

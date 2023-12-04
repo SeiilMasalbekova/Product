@@ -540,6 +540,10 @@ margin-left: 8px;
 }
 }
 @media (max-width:400px) {
+    .about-figur, .red, .blue {
+        width: 34px;
+        height: 34px;
+    }
 .header-nav {
     display: none;
 }

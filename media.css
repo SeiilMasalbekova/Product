@@ -754,11 +754,19 @@ margin-left: 8px;
         font-size: 11px;
     }
     .about-figur, .red, .blue {
-        width: 34px;
-        height: 34px;
+        width: 25px;
+        height: 25px;
     }
     .about h6 {
         width: 206px;
         font-size: 13px;
+    }
+    .part {
+        margin-left: -6px;
+    }
+    .part-text h1 {
+        width: 206px;
+        font-size: 16px;
+        margin: 40px 0 12px 24px;
     }
 }

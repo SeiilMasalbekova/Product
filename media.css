@@ -222,6 +222,11 @@ justify-content: center;
 flex-direction: column;
 }
 .product-card {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
     margin: 15px 0;
 }
 .clients {
@@ -240,8 +245,12 @@ flex-direction: column;
     width: 224px;
 }
 .about-figur, .red, .blue {
-    width: 35px;
-    height: 35px;
+    width: 37px;
+    height: 37px;
+}
+.figure, .blue, .heart, .watch {
+    width: 37px;
+    height: 37px;
 }
 }
 @media (max-width:576px) {
@@ -357,9 +366,13 @@ margin-left: 8px;
 }
 }
 @media (max-width:451px) {
+    .figure, .blue, .heart, .watch {
+        width: 36px;
+        height: 36px;
+    }
     .about-figur, .red, .blue {
-        width: 35px;
-        height: 35px;
+        width: 36px;
+        height: 36px;
     }
 .header-logo img {
     width: 80px;
@@ -609,8 +622,8 @@ margin-left: 8px;
         font-size: 12px;
     }
     .figure, .blue, .heart, .watch {
-        width: 25px;
-        height: 25px;
+        width: 34px;
+        height: 34px;
     }
     .part {
         margin-left: -23px;

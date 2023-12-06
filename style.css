@@ -126,8 +126,8 @@ padding: 0 0 57px 0;
 .blue,
 .heart,
 .watch {
-    width: 50px;
-height: 50px;
+    width: 40px;
+height: 40px;
 border-radius: 19px;
 display: flex;
 align-items: center;
@@ -136,7 +136,7 @@ justify-content: center;
 .figure {
 background: #02897A;
 }
-.bue {
+.blue {
     background: #4D8DFF;
 }
 .heart {
@@ -251,8 +251,8 @@ line-height: 26px;
 .about-figur,
 .red,
 .blue {
-    width: 35px;
-height: 35px;
+    width: 40px;
+height: 40px;
 border-radius: 19px;
 margin-right: 30px;
 }

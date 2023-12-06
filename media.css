@@ -45,6 +45,10 @@ flex-direction: column;
     width: 50px;
     height: 50px;
 }
+.figure, .blue, .heart, .watch {
+    width: 50px;
+    height: 50px;
+}
 }
 @media (max-width:1024px) {
     .figure, .blue, .heart, .watch {
@@ -245,18 +249,22 @@ flex-direction: column;
     width: 224px;
 }
 .about-figur, .red, .blue {
-    width: 37px;
-    height: 37px;
+    width: 45px;
+    height: 45px;
 }
 .figure, .blue, .heart, .watch {
-    width: 37px;
-    height: 37px;
+    width: 45px;
+    height: 45px;
 }
 }
 @media (max-width:576px) {
+.figure, .blue, .heart, .watch {
+    width: 45px;
+    height: 45px;
+}
     .about-figur, .blue, .heart, .watch {
-        width: 50px;
-        height: 50px;
+        width: 45px;
+        height: 45px;
     }
     .about-figur, .red, .blue {
         width: 45px;
